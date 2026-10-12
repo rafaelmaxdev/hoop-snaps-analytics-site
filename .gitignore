@@ -1,0 +1,6 @@
+.env
+.env.*
+*-token.json
+*oauth-client*.json
+node_modules/
+preview-*.png
